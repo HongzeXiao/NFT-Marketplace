@@ -2,4 +2,6 @@ This is a project of an NFT Marketplace built using Internet Computer. Enable us
 
 To Begin with, built the IPC environment first."https://internetcomputer.org/ "
 
+Then, go to the project directory and run
+```npm install```
 
